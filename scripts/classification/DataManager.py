@@ -16,7 +16,7 @@ class DataManager:
         self.__split_labels_from_data()
 
     def __load_file(self):
-        dim_list = ['Overall Survival']
+        dim_list = ['Overall Survival', 'Sample Type']
         self.data_frame = pd.read_csv("/home/celine/Desktop/Cancer-Classification-with-XAI-Vis/hcai_data-main/difg_glass_clinical_data.tsv", usecols=dim_list, sep='\t')
         print(self.data_frame['Overall Survival'].tolist())
 
@@ -56,4 +56,5 @@ class DataManager:
         self.data = dataframe
 
     def get_labels_and_data(self):
+        print(self.labels.tolist())
         return self.labels, self.data
