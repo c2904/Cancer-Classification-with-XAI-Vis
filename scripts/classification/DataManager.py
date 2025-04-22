@@ -17,7 +17,8 @@ class DataManager:
 
     def __load_file(self):
         dim_list = ['Overall Survival']
-        self.data_frame = pd.read_csv("hcai_data-main/difg_glass_clinical_data.tsv", usecols=dim_list, sep=';')
+        self.data_frame = pd.read_csv("/home/celine/Desktop/Cancer-Classification-with-XAI-Vis/hcai_data-main/difg_glass_clinical_data.tsv", usecols=dim_list, sep='\t')
+        print(self.data_frame.head())
 
 
     def __set_survival_groups_as_label(self):
