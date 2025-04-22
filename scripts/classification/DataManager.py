@@ -19,19 +19,21 @@ class DataManager:
         dim_list = ['Overall Survival', 'Sample Type']
         self.data_frame = pd.read_csv("/home/celine/Desktop/Cancer-Classification-with-XAI-Vis/hcai_data-main/difg_glass_clinical_data.tsv", usecols=dim_list, sep='\t')
         print(self.data_frame['Overall Survival'].tolist())
+        print(self.data_frame['Sample Type'].tolist())
 
-    def __set_survival_groups_as_label(self):
+
+    '''def __set_survival_groups_as_label(self):
         for i, row in self.data_frame.iterrows():
             if self.data_frame.loc[i][self.label_col] == 1:
                 self.data_frame.at[i, self.label_col] = 1 #Deceased
             elif self.data_frame.loc[i][self.label_col] == 0:
-                self.data_frame.at[i, self.label_col] = 2 #Living
+                self.data_frame.at[i, self.label_col] = 2 #Living '''
 
     def __process_data(self):
         # replace nan values with mean of column
         self.data_frame = Preprocessor.deleteRowIfColumnIsNan(data_frame=self.data_frame, column_name='Overall Survival')
 
-        self.__set_survival_groups_as_label()
+        #self.__set_survival_groups_as_label()
         self.__categorical_data_to_numerical()
 
     def __categorical_data_to_numerical(self):
