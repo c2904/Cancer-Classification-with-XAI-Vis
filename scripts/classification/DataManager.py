@@ -18,8 +18,7 @@ class DataManager:
     def __load_file(self):
         dim_list = ['Overall Survival']
         self.data_frame = pd.read_csv("/home/celine/Desktop/Cancer-Classification-with-XAI-Vis/hcai_data-main/difg_glass_clinical_data.tsv", usecols=dim_list, sep='\t')
-        print(self.data_frame.head())
-
+        print(self.data_frame['Overall Survival'].tolist())
 
     def __set_survival_groups_as_label(self):
         for i, row in self.data_frame.iterrows():
@@ -30,7 +29,7 @@ class DataManager:
 
     def __process_data(self):
         # replace nan values with mean of column
-        self.data_frame = Preprocessor.replaceNanValuesWithMedian(data_frame=self.data_frame)
+        self.data_frame = Preprocessor.deleteRowIfColumnIsNan(data_frame=self.data_frame, column_name='Overall Survival')
 
         self.__set_survival_groups_as_label()
         self.__categorical_data_to_numerical()
