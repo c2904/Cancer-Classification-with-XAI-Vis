@@ -1,0 +1,694 @@
+Sample ID	Cancer Type Detailed	Overall Survival (months)	Overall Survival	Sample Type
+GLSS-19-0266-R1	Glioblastoma	35	1:DECEASED	First Recurrence
+GLSS-19-0266-TP	Glioblastoma	35	1:DECEASED	Tumor Primary
+GLSS-19-0267-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-19-0267-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-19-0268-R1	Glioblastoma	12	1:DECEASED	First Recurrence
+GLSS-19-0268-TP	Glioblastoma	12	1:DECEASED	Tumor Primary
+GLSS-19-0269-R1	Glioblastoma	16	1:DECEASED	First Recurrence
+GLSS-19-0269-TP	Glioblastoma	16	1:DECEASED	Tumor Primary
+GLSS-19-0271-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-19-0271-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-19-0272-R1	Glioblastoma	22	1:DECEASED	First Recurrence
+GLSS-19-0272-TP	Glioblastoma	22	1:DECEASED	Tumor Primary
+GLSS-19-0273-R1	Glioblastoma	29	1:DECEASED	First Recurrence
+GLSS-19-0273-TP	Glioblastoma	29	1:DECEASED	Tumor Primary
+GLSS-19-0274-R1	Glioblastoma	13	1:DECEASED	First Recurrence
+GLSS-19-0274-TP	Glioblastoma	13	1:DECEASED	Tumor Primary
+GLSS-19-0275-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-19-0275-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-19-0278-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-19-0278-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-19-0279-R1	Glioblastoma	11	1:DECEASED	First Recurrence
+GLSS-19-0279-R2	Glioblastoma	11	1:DECEASED	Second Recurrence
+GLSS-19-0279-TP	Glioblastoma	11	1:DECEASED	Tumor Primary
+GLSS-19-0280-R1	Glioblastoma	22	1:DECEASED	First Recurrence
+GLSS-19-0280-TP	Glioblastoma	22	1:DECEASED	Tumor Primary
+GLSS-AT-00P1-R1	Glioblastoma	37	1:DECEASED	First Recurrence
+GLSS-AT-00P1-TP	Glioblastoma	37	1:DECEASED	Tumor Primary
+GLSS-AT-00P2-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-AT-00P2-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-AT-00P3-R1	Glioblastoma	25	1:DECEASED	First Recurrence
+GLSS-AT-00P3-TP	Glioblastoma	25	1:DECEASED	Tumor Primary
+GLSS-AT-00P4-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-AT-00P4-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-AT-00P5-R1	Glioblastoma	23	1:DECEASED	First Recurrence
+GLSS-AT-00P5-TP	Glioblastoma	23	1:DECEASED	Tumor Primary
+GLSS-AT-00P6-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-AT-00P6-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-AT-00P7-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-AT-00P7-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-AT-GP01-R1	Glioblastoma	13	1:DECEASED	First Recurrence
+GLSS-AT-GP01-TP	Glioblastoma	13	1:DECEASED	Tumor Primary
+GLSS-CU-P003-R1	Glioblastoma	25	0:LIVING	First Recurrence
+GLSS-CU-P003-TP	Glioblastoma	25	0:LIVING	Tumor Primary
+GLSS-CU-P013-R1	Glioblastoma	55	1:DECEASED	First Recurrence
+GLSS-CU-P013-R2	Glioblastoma	55	1:DECEASED	Second Recurrence
+GLSS-CU-P013-R3	Glioblastoma	55	1:DECEASED	Third Recurrence
+GLSS-CU-P020-R1	Glioblastoma	34	1:DECEASED	First Recurrence
+GLSS-CU-P020-R2	Glioblastoma	34	1:DECEASED	Second Recurrence
+GLSS-CU-P020-R3	Glioblastoma	34	1:DECEASED	Third Recurrence
+GLSS-CU-P021-R1	Diffuse Glioma	10	1:DECEASED	First Recurrence
+GLSS-CU-P021-R2	Glioblastoma	10	1:DECEASED	Second Recurrence
+GLSS-CU-P021-TP	Glioblastoma	10	1:DECEASED	Tumor Primary
+GLSS-CU-P024-R1	Glioblastoma	36	0:LIVING	First Recurrence
+GLSS-CU-P024-R2	Glioblastoma	36	0:LIVING	Second Recurrence
+GLSS-CU-P024-TP	Glioblastoma	36	0:LIVING	Tumor Primary
+GLSS-CU-P046-R1	Glioblastoma	45	0:LIVING	First Recurrence
+GLSS-CU-P046-TP	Glioblastoma	45	0:LIVING	Tumor Primary
+GLSS-CU-P053-R1	Glioblastoma	31	1:DECEASED	First Recurrence
+GLSS-CU-P053-R2	Glioblastoma	31	1:DECEASED	Second Recurrence
+GLSS-CU-P053-TP	Glioblastoma	31	1:DECEASED	Tumor Primary
+GLSS-CU-P055-R1	Glioblastoma	23	0:LIVING	First Recurrence
+GLSS-CU-P055-R2	Glioblastoma	23	0:LIVING	Second Recurrence
+GLSS-CU-P055-TP	Glioblastoma	23	0:LIVING	Tumor Primary
+GLSS-CU-P056-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-CU-P056-R2	Glioblastoma	19	1:DECEASED	Second Recurrence
+GLSS-CU-P069-R1	Glioblastoma	15	1:DECEASED	First Recurrence
+GLSS-CU-P069-TP	Glioblastoma	15	1:DECEASED	Tumor Primary
+GLSS-CU-P071-R1	Glioblastoma	15	1:DECEASED	First Recurrence
+GLSS-CU-P071-TP	Glioblastoma	15	1:DECEASED	Tumor Primary
+GLSS-CU-P100-R1	Glioblastoma	46	0:LIVING	First Recurrence
+GLSS-CU-P100-R2	Glioblastoma	46	0:LIVING	Second Recurrence
+GLSS-CU-P101-R1	Glioblastoma	45	1:DECEASED	First Recurrence
+GLSS-CU-P101-TP	Glioblastoma	45	1:DECEASED	Tumor Primary
+GLSS-CU-P102-R1	Glioblastoma	24	0:LIVING	First Recurrence
+GLSS-CU-P102-TP	Glioblastoma	24	0:LIVING	Tumor Primary
+GLSS-CU-P104-R1	Glioblastoma	46	0:LIVING	First Recurrence
+GLSS-CU-P104-R2	Glioblastoma	46	0:LIVING	Second Recurrence
+GLSS-CU-R001-R1	Glioblastoma	7	1:DECEASED	First Recurrence
+GLSS-CU-R001-TP	Glioblastoma	7	1:DECEASED	Tumor Primary
+GLSS-CU-R002-R1	Glioblastoma	18	1:DECEASED	First Recurrence
+GLSS-CU-R002-TP	Glioblastoma	18	1:DECEASED	Tumor Primary
+GLSS-CU-R003-R1	Glioblastoma	17	1:DECEASED	First Recurrence
+GLSS-CU-R003-TP	Glioblastoma	17	1:DECEASED	Tumor Primary
+GLSS-CU-R004-R1	Glioblastoma	27	1:DECEASED	First Recurrence
+GLSS-CU-R004-TP	Glioblastoma	27	1:DECEASED	Tumor Primary
+GLSS-CU-R005-R1	Glioblastoma	13	1:DECEASED	First Recurrence
+GLSS-CU-R005-TP	Glioblastoma	13	1:DECEASED	Tumor Primary
+GLSS-CU-R006-R1	Glioblastoma	18	1:DECEASED	First Recurrence
+GLSS-CU-R006-TP	Glioblastoma	18	1:DECEASED	Tumor Primary
+GLSS-CU-R007-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-CU-R007-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-CU-R008-R1	Glioblastoma	15	1:DECEASED	First Recurrence
+GLSS-CU-R008-TP	Glioblastoma	15	1:DECEASED	Tumor Primary
+GLSS-CU-R009-R1	Glioblastoma	46	1:DECEASED	First Recurrence
+GLSS-CU-R009-TP	Glioblastoma	46	1:DECEASED	Tumor Primary
+GLSS-CU-R010-R1	Glioblastoma	23	1:DECEASED	First Recurrence
+GLSS-CU-R010-TP	Glioblastoma	23	1:DECEASED	Tumor Primary
+GLSS-CU-R011-R1	Glioblastoma	18	1:DECEASED	First Recurrence
+GLSS-CU-R011-TP	Glioblastoma	18	1:DECEASED	Tumor Primary
+GLSS-CU-R012-R1	Glioblastoma	45	1:DECEASED	First Recurrence
+GLSS-CU-R012-TP	Glioblastoma	45	1:DECEASED	Tumor Primary
+GLSS-CU-R013-R1	Glioblastoma	25	1:DECEASED	First Recurrence
+GLSS-CU-R013-TP	Glioblastoma	25	1:DECEASED	Tumor Primary
+GLSS-CU-R014-R1	Glioblastoma	9	1:DECEASED	First Recurrence
+GLSS-CU-R014-TP	Glioblastoma	9	1:DECEASED	Tumor Primary
+GLSS-CU-R015-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-CU-R015-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-CU-R016-R1	Glioblastoma	18	1:DECEASED	First Recurrence
+GLSS-CU-R016-TP	Glioblastoma	18	1:DECEASED	Tumor Primary
+GLSS-CU-R017-R1	Glioblastoma	30	1:DECEASED	First Recurrence
+GLSS-CU-R017-TP	Glioblastoma	30	1:DECEASED	Tumor Primary
+GLSS-CU-R018-R1	Glioblastoma	25	1:DECEASED	First Recurrence
+GLSS-CU-R018-TP	Glioblastoma	25	1:DECEASED	Tumor Primary
+GLSS-CU-R019-R1	Glioblastoma	18	1:DECEASED	First Recurrence
+GLSS-CU-R019-TP	Glioblastoma	18	1:DECEASED	Tumor Primary
+GLSS-DF-0002-R1	Glioblastoma	11	1:DECEASED	First Recurrence
+GLSS-DF-0002-TP	Glioblastoma	11	1:DECEASED	Tumor Primary
+GLSS-DF-0003-R1	Glioblastoma	9	1:DECEASED	First Recurrence
+GLSS-DF-0003-TP	Glioblastoma	9	1:DECEASED	Tumor Primary
+GLSS-DF-0004-R1	Glioblastoma	5	1:DECEASED	First Recurrence
+GLSS-DF-0004-TP	Glioblastoma	5	1:DECEASED	Tumor Primary
+GLSS-DF-0006-R1	Glioblastoma	16	1:DECEASED	First Recurrence
+GLSS-DF-0006-TP	Glioblastoma	16	1:DECEASED	Tumor Primary
+GLSS-DF-0007-R1	Glioblastoma	26	1:DECEASED	First Recurrence
+GLSS-DF-0007-TP	Glioblastoma	26	1:DECEASED	Tumor Primary
+GLSS-DF-0010-R1	Glioblastoma	6	1:DECEASED	First Recurrence
+GLSS-DF-0010-TP	Glioblastoma	6	1:DECEASED	Tumor Primary
+GLSS-DF-0012-R1	Glioblastoma	11	1:DECEASED	First Recurrence
+GLSS-DF-0012-TP	Glioblastoma	11	1:DECEASED	Tumor Primary
+GLSS-DF-0013-R1	Glioblastoma	26	1:DECEASED	First Recurrence
+GLSS-DF-0013-TP	Glioblastoma	26	1:DECEASED	Tumor Primary
+GLSS-DF-0014-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-DF-0014-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-DK-0001-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0001-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0002-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0002-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0003-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0003-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0004-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0004-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0005-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0005-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0006-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0006-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0007-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0007-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0008-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0008-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0009-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0009-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0010-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0010-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0011-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0011-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0012-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0012-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0013-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0013-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0014-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0014-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-DK-0015-R1	Diffuse Glioma	NA	NA	First Recurrence
+GLSS-DK-0015-TP	Diffuse Glioma	NA	NA	Tumor Primary
+GLSS-HF-1CCD-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-HF-1CCD-R2	Glioblastoma	21	1:DECEASED	Second Recurrence
+GLSS-HF-1DDC-R1	Glioblastoma	20	1:DECEASED	First Recurrence
+GLSS-HF-1DDC-TP	Glioblastoma	20	1:DECEASED	Tumor Primary
+GLSS-HF-2548-R1	Glioblastoma	40	1:DECEASED	First Recurrence
+GLSS-HF-2548-TP	Glioblastoma	40	1:DECEASED	Tumor Primary
+GLSS-HF-2829-R1	Glioblastoma	13	1:DECEASED	First Recurrence
+GLSS-HF-2829-TP	Anaplastic Oligoastrocytoma	13	1:DECEASED	Tumor Primary
+GLSS-HF-2869-R3	Glioblastoma	142	1:DECEASED	Third Recurrence
+GLSS-HF-2869-TP	Glioblastoma	142	1:DECEASED	Tumor Primary
+GLSS-HF-2919-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-HF-2919-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-HF-2934-R1	Glioblastoma	17	1:DECEASED	First Recurrence
+GLSS-HF-2934-TP	Glioblastoma	17	1:DECEASED	Tumor Primary
+GLSS-HF-3016-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-HF-3016-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-HF-3050-R1	Glioblastoma	22	1:DECEASED	First Recurrence
+GLSS-HF-3050-TP	Glioblastoma	22	1:DECEASED	Tumor Primary
+GLSS-HF-3081-R2	Glioblastoma	39	1:DECEASED	Second Recurrence
+GLSS-HF-3081-TP	Glioblastoma	39	1:DECEASED	Tumor Primary
+GLSS-HF-3118-R1	Glioblastoma	20	1:DECEASED	First Recurrence
+GLSS-HF-3118-TP	Glioblastoma	20	1:DECEASED	Tumor Primary
+GLSS-HF-3162-R1	Glioblastoma	17	1:DECEASED	First Recurrence
+GLSS-HF-3162-TP	Glioblastoma	17	1:DECEASED	Tumor Primary
+GLSS-HF-4B46-R1	Oligodendroglioma	50	0:LIVING	First Recurrence
+GLSS-HF-4B46-TP	Oligodendroglioma	50	0:LIVING	Tumor Primary
+GLSS-HF-4D9A-R1	Glioblastoma	17	1:DECEASED	First Recurrence
+GLSS-HF-4D9A-TP	Glioblastoma	17	1:DECEASED	Tumor Primary
+GLSS-HF-4F0A-R1	Anaplastic Oligoastrocytoma	139	1:DECEASED	First Recurrence
+GLSS-HF-4F0A-R2	Glioblastoma	139	1:DECEASED	Second Recurrence
+GLSS-HF-4F0A-TP	Anaplastic Oligoastrocytoma	139	1:DECEASED	Tumor Primary
+GLSS-HF-4FBF-R1	Glioblastoma	56	1:DECEASED	First Recurrence
+GLSS-HF-4FBF-R2	Glioblastoma	56	1:DECEASED	Second Recurrence
+GLSS-HF-50F3-R2	Glioblastoma	36	1:DECEASED	Second Recurrence
+GLSS-HF-50F3-TP	Glioblastoma	36	1:DECEASED	Tumor Primary
+GLSS-HF-57AE-R1	Glioblastoma	11	1:DECEASED	First Recurrence
+GLSS-HF-57AE-R2	Glioblastoma	11	1:DECEASED	Second Recurrence
+GLSS-HF-57AE-TP	Glioblastoma	11	1:DECEASED	Tumor Primary
+GLSS-HF-6504-R1	Glioblastoma	26	1:DECEASED	First Recurrence
+GLSS-HF-6504-TP	Glioblastoma	26	1:DECEASED	Tumor Primary
+GLSS-HF-6658-R1	Glioblastoma	17	1:DECEASED	First Recurrence
+GLSS-HF-6658-TP	Glioblastoma	17	1:DECEASED	Tumor Primary
+GLSS-HF-7CAC-R1	Glioblastoma	31	1:DECEASED	First Recurrence
+GLSS-HF-7CAC-TP	Glioblastoma	31	1:DECEASED	Tumor Primary
+GLSS-HF-8FCD-R1	Glioblastoma	54	1:DECEASED	First Recurrence
+GLSS-HF-8FCD-TP	Astrocytoma	54	1:DECEASED	Tumor Primary
+GLSS-HF-9A7A-R1	Glioblastoma	75	1:DECEASED	First Recurrence
+GLSS-HF-9A7A-R2	Glioblastoma	75	1:DECEASED	Second Recurrence
+GLSS-HF-9A7A-TP	Glioblastoma	75	1:DECEASED	Tumor Primary
+GLSS-HF-B92C-R2	Glioblastoma	37	1:DECEASED	Second Recurrence
+GLSS-HF-B92C-TP	Glioblastoma	37	1:DECEASED	Tumor Primary
+GLSS-HF-B972-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-HF-B972-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-HF-BCDE-R3	Glioblastoma	38	1:DECEASED	Third Recurrence
+GLSS-HF-BCDE-TP	Glioblastoma	38	1:DECEASED	Tumor Primary
+GLSS-HF-CB66-R1	Oligodendroglioma	175	1:DECEASED	First Recurrence
+GLSS-HF-CB66-R2	Oligodendroglioma	175	1:DECEASED	Second Recurrence
+GLSS-HF-CB66-TP	Oligodendroglioma	175	1:DECEASED	Tumor Primary
+GLSS-HF-DE05-R1	Glioblastoma	70	1:DECEASED	First Recurrence
+GLSS-HF-DE05-TP	Glioblastoma	70	1:DECEASED	Tumor Primary
+GLSS-HF-DF35-R1	Glioblastoma	13	1:DECEASED	First Recurrence
+GLSS-HF-DF35-TP	Glioblastoma	13	1:DECEASED	Tumor Primary
+GLSS-HF-EE74-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-HF-EE74-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-HF-EE77-R1	Glioblastoma	56	1:DECEASED	First Recurrence
+GLSS-HF-EE77-R2	Glioblastoma	56	1:DECEASED	Second Recurrence
+GLSS-HF-EE77-R3	Glioblastoma	56	1:DECEASED	Third Recurrence
+GLSS-HK-0001-R1	Glioblastoma	25	1:DECEASED	First Recurrence
+GLSS-HK-0001-TP	Glioblastoma	25	1:DECEASED	Tumor Primary
+GLSS-HK-0002-R1	Glioblastoma	37	1:DECEASED	First Recurrence
+GLSS-HK-0002-TP	Diffuse Astrocytoma	37	1:DECEASED	Tumor Primary
+GLSS-HK-0003-R1	Glioblastoma	25	1:DECEASED	First Recurrence
+GLSS-HK-0003-TP	Glioblastoma	25	1:DECEASED	Tumor Primary
+GLSS-HK-0004-R1	Glioblastoma	40	1:DECEASED	First Recurrence
+GLSS-HK-0004-TP	Anaplastic Astrocytoma	40	1:DECEASED	Tumor Primary
+GLSS-HK-0005-R1	Diffuse Astrocytoma	64	1:DECEASED	First Recurrence
+GLSS-HK-0005-TP	Diffuse Astrocytoma	64	1:DECEASED	Tumor Primary
+GLSS-JX-0006-R1	Anaplastic Astrocytoma	88	1:DECEASED	First Recurrence
+GLSS-JX-0006-TP	Diffuse Astrocytoma	88	1:DECEASED	Tumor Primary
+GLSS-LU-00A1-R1	Glioblastoma	60	1:DECEASED	First Recurrence
+GLSS-LU-00A1-TP	Glioblastoma	60	1:DECEASED	Tumor Primary
+GLSS-LU-00B9-R1	Glioblastoma	NA	1:DECEASED	First Recurrence
+GLSS-LU-00B9-TP	Glioblastoma	NA	1:DECEASED	Tumor Primary
+GLSS-LU-00C1-R1	Glioblastoma	43	1:DECEASED	First Recurrence
+GLSS-LU-00C1-TP	Glioblastoma	43	1:DECEASED	Tumor Primary
+GLSS-LU-00C2-R1	Glioblastoma	49	1:DECEASED	First Recurrence
+GLSS-LU-00C2-TP	Glioblastoma	49	1:DECEASED	Tumor Primary
+GLSS-LU-00C4-R1	Glioblastoma	32	1:DECEASED	First Recurrence
+GLSS-LU-00C4-TP	Glioblastoma	32	1:DECEASED	Tumor Primary
+GLSS-LU-00C7-R1	Glioblastoma	24	1:DECEASED	First Recurrence
+GLSS-LU-00C7-TP	Glioblastoma	24	1:DECEASED	Tumor Primary
+GLSS-LU-0B10-R1	Glioblastoma	29	1:DECEASED	First Recurrence
+GLSS-LU-0B10-TP	Glioblastoma	29	1:DECEASED	Tumor Primary
+GLSS-LU-0B12-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-LU-0B12-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-LU-0B13-R1	Glioblastoma	18	1:DECEASED	First Recurrence
+GLSS-LU-0B13-TP	Glioblastoma	18	1:DECEASED	Tumor Primary
+GLSS-LX-0083-R1	Glioblastoma	10	1:DECEASED	First Recurrence
+GLSS-LX-0083-R2	Glioblastoma	10	1:DECEASED	Second Recurrence
+GLSS-LX-0267-R1	Glioblastoma	54	0:LIVING	First Recurrence
+GLSS-LX-0267-TP	Anaplastic Astrocytoma	54	0:LIVING	Tumor Primary
+GLSS-LX-0304-R1	Glioblastoma	24	1:DECEASED	First Recurrence
+GLSS-LX-0304-TP	Glioblastoma	24	1:DECEASED	Tumor Primary
+GLSS-LX-0357-R1	Anaplastic Astrocytoma	123	1:DECEASED	First Recurrence
+GLSS-LX-0357-R2	Anaplastic Astrocytoma	123	1:DECEASED	Second Recurrence
+GLSS-LX-0357-R3	Glioblastoma	123	1:DECEASED	Third Recurrence
+GLSS-LX-0561-R1	Glioblastoma	31	1:DECEASED	First Recurrence
+GLSS-LX-0561-TP	Glioblastoma	31	1:DECEASED	Tumor Primary
+GLSS-MD-0001-R1	Anaplastic Oligodendroglioma	257	1:DECEASED	First Recurrence
+GLSS-MD-0001-TP	Oligodendroglioma	257	1:DECEASED	Tumor Primary
+GLSS-MD-0003-R1	Glioblastoma	110	0:LIVING	First Recurrence
+GLSS-MD-0003-R2	Glioblastoma	110	0:LIVING	Second Recurrence
+GLSS-MD-0003-R3	Glioblastoma	110	0:LIVING	Third Recurrence
+GLSS-MD-0004-R1	Glioblastoma	62	1:DECEASED	First Recurrence
+GLSS-MD-0004-R2	Glioblastoma	62	1:DECEASED	Second Recurrence
+GLSS-MD-0005-R1	Diffuse Astrocytoma	203	0:LIVING	First Recurrence
+GLSS-MD-0005-TP	Diffuse Astrocytoma	203	0:LIVING	Tumor Primary
+GLSS-MD-0006-R1	Anaplastic Oligodendroglioma	93	1:DECEASED	First Recurrence
+GLSS-MD-0006-TP	Oligodendroglioma	93	1:DECEASED	Tumor Primary
+GLSS-MD-0007-R1	Diffuse Astrocytoma	157	1:DECEASED	First Recurrence
+GLSS-MD-0007-TP	Diffuse Astrocytoma	157	1:DECEASED	Tumor Primary
+GLSS-MD-0008-R1	Anaplastic Astrocytoma	183	0:LIVING	First Recurrence
+GLSS-MD-0008-R2	Anaplastic Astrocytoma	183	0:LIVING	Second Recurrence
+GLSS-MD-0009-R1	Diffuse Glioma	80	1:DECEASED	First Recurrence
+GLSS-MD-0009-TP	Glioblastoma	80	1:DECEASED	Tumor Primary
+GLSS-MD-0010-R1	Diffuse Astrocytoma	75	0:LIVING	First Recurrence
+GLSS-MD-0010-R2	Diffuse Astrocytoma	75	0:LIVING	Second Recurrence
+GLSS-MD-0010-R3	Glioblastoma	75	0:LIVING	Third Recurrence
+GLSS-MD-0011-R1	Anaplastic Oligodendroglioma	102	0:LIVING	First Recurrence
+GLSS-MD-0011-TP	Oligodendroglioma	102	0:LIVING	Tumor Primary
+GLSS-MD-0012-R1	Glioblastoma	98	1:DECEASED	First Recurrence
+GLSS-MD-0012-TP	Anaplastic Astrocytoma	98	1:DECEASED	Tumor Primary
+GLSS-MD-0014-R1	Glioblastoma	74	0:LIVING	First Recurrence
+GLSS-MD-0014-TP	Glioblastoma	74	0:LIVING	Tumor Primary
+GLSS-MD-0017-R1	Glioblastoma	38	1:DECEASED	First Recurrence
+GLSS-MD-0017-R2	Glioblastoma	38	1:DECEASED	Second Recurrence
+GLSS-MD-0018-R1	Glioblastoma	91	0:LIVING	First Recurrence
+GLSS-MD-0018-R2	Glioblastoma	91	0:LIVING	Second Recurrence
+GLSS-MD-0020-R1	Glioblastoma	36	1:DECEASED	First Recurrence
+GLSS-MD-0020-TP	Anaplastic Astrocytoma	36	1:DECEASED	Tumor Primary
+GLSS-MD-0021-R1	Glioblastoma	119	0:LIVING	First Recurrence
+GLSS-MD-0021-TP	Glioblastoma	119	0:LIVING	Tumor Primary
+GLSS-MD-0022-R1	Glioblastoma	10	1:DECEASED	First Recurrence
+GLSS-MD-0022-TP	Glioblastoma	10	1:DECEASED	Tumor Primary
+GLSS-MD-0023-R1	Glioblastoma	12	0:LIVING	First Recurrence
+GLSS-MD-0023-TP	Glioblastoma	12	0:LIVING	Tumor Primary
+GLSS-MD-0025-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-MD-0025-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-MD-0026-R1	Glioblastoma	44	1:DECEASED	First Recurrence
+GLSS-MD-0026-TP	Glioblastoma	44	1:DECEASED	Tumor Primary
+GLSS-MD-0027-R1	Anaplastic Astrocytoma	80	1:DECEASED	First Recurrence
+GLSS-MD-0027-R2	Glioblastoma	80	1:DECEASED	Second Recurrence
+GLSS-MD-0027-TP	Diffuse Astrocytoma	80	1:DECEASED	Tumor Primary
+GLSS-MD-0030-R1	Glioblastoma	138	1:DECEASED	First Recurrence
+GLSS-MD-0030-TP	Diffuse Astrocytoma	138	1:DECEASED	Tumor Primary
+GLSS-MD-0031-R1	Glioblastoma	6	0:LIVING	First Recurrence
+GLSS-MD-0031-TP	Glioblastoma	6	0:LIVING	Tumor Primary
+GLSS-MD-0032-R1	Glioblastoma	27	1:DECEASED	First Recurrence
+GLSS-MD-0032-TP	Anaplastic Astrocytoma	27	1:DECEASED	Tumor Primary
+GLSS-MD-0035-R1	Glioblastoma	22	1:DECEASED	First Recurrence
+GLSS-MD-0035-TP	Glioblastoma	22	1:DECEASED	Tumor Primary
+GLSS-MD-0036-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-MD-0036-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-MD-0038-R1	Anaplastic Astrocytoma	53	0:LIVING	First Recurrence
+GLSS-MD-0038-TP	Anaplastic Astrocytoma	53	0:LIVING	Tumor Primary
+GLSS-MD-0041-R1	Oligodendroglioma	122	0:LIVING	First Recurrence
+GLSS-MD-0041-TP	Oligodendroglioma	122	0:LIVING	Tumor Primary
+GLSS-MD-0042-R1	Glioblastoma	11	1:DECEASED	First Recurrence
+GLSS-MD-0042-TP	Glioblastoma	11	1:DECEASED	Tumor Primary
+GLSS-MD-0043-R1	Glioblastoma	135	1:DECEASED	First Recurrence
+GLSS-MD-0043-TP	Diffuse Astrocytoma	135	1:DECEASED	Tumor Primary
+GLSS-MD-0044-R1	Oligodendroglioma	124	0:LIVING	First Recurrence
+GLSS-MD-0044-TP	Oligodendroglioma	124	0:LIVING	Tumor Primary
+GLSS-MD-0045-R1	Glioblastoma	30	0:LIVING	First Recurrence
+GLSS-MD-0045-TP	Glioblastoma	30	0:LIVING	Tumor Primary
+GLSS-MD-0046-R1	Glioblastoma	36	1:DECEASED	First Recurrence
+GLSS-MD-0046-TP	Glioblastoma	36	1:DECEASED	Tumor Primary
+GLSS-MD-0047-R1	Anaplastic Oligodendroglioma	175	0:LIVING	First Recurrence
+GLSS-MD-0047-TP	Oligodendroglioma	175	0:LIVING	Tumor Primary
+GLSS-MD-0048-R1	Oligodendroglioma	133	0:LIVING	First Recurrence
+GLSS-MD-0048-TP	Oligodendroglioma	133	0:LIVING	Tumor Primary
+GLSS-MD-0049-R1	Glioblastoma	97	0:LIVING	First Recurrence
+GLSS-MD-0049-TP	Diffuse Astrocytoma	97	0:LIVING	Tumor Primary
+GLSS-MD-0082-R1	Glioblastoma	83	1:DECEASED	First Recurrence
+GLSS-MD-0082-TP	Diffuse Astrocytoma	83	1:DECEASED	Tumor Primary
+GLSS-MD-0086-R1	Glioblastoma	54	1:DECEASED	First Recurrence
+GLSS-MD-0086-TP	Diffuse Astrocytoma	54	1:DECEASED	Tumor Primary
+GLSS-MD-0088-R1	Anaplastic Astrocytoma	109	0:LIVING	First Recurrence
+GLSS-MD-0088-TP	Diffuse Astrocytoma	109	0:LIVING	Tumor Primary
+GLSS-MD-0089-R1	Anaplastic Oligodendroglioma	163	0:LIVING	First Recurrence
+GLSS-MD-0089-TP	Anaplastic Oligodendroglioma	163	0:LIVING	Tumor Primary
+GLSS-MD-0090-R1	Anaplastic Oligodendroglioma	122	0:LIVING	First Recurrence
+GLSS-MD-0090-TP	Oligodendroglioma	122	0:LIVING	Tumor Primary
+GLSS-MD-0091-R1	Anaplastic Astrocytoma	84	1:DECEASED	First Recurrence
+GLSS-MD-0091-TP	Diffuse Astrocytoma	84	1:DECEASED	Tumor Primary
+GLSS-MD-0092-R1	Anaplastic Oligodendroglioma	101	0:LIVING	First Recurrence
+GLSS-MD-0092-TP	Oligodendroglioma	101	0:LIVING	Tumor Primary
+GLSS-MD-0093-R1	Anaplastic Astrocytoma	82	1:DECEASED	First Recurrence
+GLSS-MD-0093-TP	Diffuse Astrocytoma	82	1:DECEASED	Tumor Primary
+GLSS-MD-0094-R1	Glioblastoma	72	0:LIVING	First Recurrence
+GLSS-MD-0094-TP	Anaplastic Astrocytoma	72	0:LIVING	Tumor Primary
+GLSS-MD-0097-R1	Glioblastoma	43	1:DECEASED	First Recurrence
+GLSS-MD-0097-TP	Diffuse Astrocytoma	43	1:DECEASED	Tumor Primary
+GLSS-MD-0112-R1	Glioblastoma	114	0:LIVING	First Recurrence
+GLSS-MD-0112-TP	Glioblastoma	114	0:LIVING	Tumor Primary
+GLSS-MD-0113-R1	Oligodendroglioma	161	0:LIVING	First Recurrence
+GLSS-MD-0113-R4	Oligodendroglioma	161	0:LIVING	Fourth recurrence
+GLSS-MD-LP01-R1	Glioblastoma	68	1:DECEASED	First Recurrence
+GLSS-MD-LP01-TP	Anaplastic Astrocytoma	68	1:DECEASED	Tumor Primary
+GLSS-MD-LP02-R1	Glioblastoma	41	1:DECEASED	First Recurrence
+GLSS-MD-LP02-TP	Anaplastic Astrocytoma	41	1:DECEASED	Tumor Primary
+GLSS-MD-LP04-R1	Glioblastoma	39	0:LIVING	First Recurrence
+GLSS-MD-LP04-TP	Glioblastoma	39	0:LIVING	Tumor Primary
+GLSS-MD-LP10-R1	Glioblastoma	10	0:LIVING	First Recurrence
+GLSS-MD-LP10-TP	Glioblastoma	10	0:LIVING	Tumor Primary
+GLSS-MG-0001-R1	Glioblastoma	51	1:DECEASED	First Recurrence
+GLSS-MG-0001-TP	Glioblastoma	51	1:DECEASED	Tumor Primary
+GLSS-MG-0002-R1	Glioblastoma	15	1:DECEASED	First Recurrence
+GLSS-MG-0002-TP	Glioblastoma	15	1:DECEASED	Tumor Primary
+GLSS-MG-0003-R1	Glioblastoma	13	1:DECEASED	First Recurrence
+GLSS-MG-0003-TP	Glioblastoma	13	1:DECEASED	Tumor Primary
+GLSS-MG-0005-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-MG-0005-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-MG-0006-R1	Glioblastoma	18	1:DECEASED	First Recurrence
+GLSS-MG-0006-TP	Glioblastoma	18	1:DECEASED	Tumor Primary
+GLSS-MG-0007-R2	Glioblastoma	24	1:DECEASED	Second Recurrence
+GLSS-MG-0007-TP	Anaplastic Astrocytoma	24	1:DECEASED	Tumor Primary
+GLSS-MG-0009-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-MG-0009-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-MG-0010-R1	Glioblastoma	8	1:DECEASED	First Recurrence
+GLSS-MG-0010-TP	Glioblastoma	8	1:DECEASED	Tumor Primary
+GLSS-MG-0011-R1	Glioblastoma	11	1:DECEASED	First Recurrence
+GLSS-MG-0011-TP	Glioblastoma	11	1:DECEASED	Tumor Primary
+GLSS-MG-0015-R1	Glioblastoma	24	1:DECEASED	First Recurrence
+GLSS-MG-0015-TP	Glioblastoma	24	1:DECEASED	Tumor Primary
+GLSS-NS-0001-M1	Glioblastoma	17	0:LIVING	First Metastasis
+GLSS-NS-0001-R1	Glioblastoma	17	0:LIVING	First Recurrence
+GLSS-NS-0001-R2	Glioblastoma	17	0:LIVING	Second Recurrence
+GLSS-NS-0001-TP	Glioblastoma	17	0:LIVING	Tumor Primary
+GLSS-SF-0001-R1	Glioblastoma	58	1:DECEASED	First Recurrence
+GLSS-SF-0001-TP	Diffuse Astrocytoma	58	1:DECEASED	Tumor Primary
+GLSS-SF-0002-R1	Anaplastic Astrocytoma	79	0:LIVING	First Recurrence
+GLSS-SF-0002-TP	Diffuse Astrocytoma	79	0:LIVING	Tumor Primary
+GLSS-SF-0003-R1	Glioblastoma	85	1:DECEASED	First Recurrence
+GLSS-SF-0003-TP	Astrocytoma	85	1:DECEASED	Tumor Primary
+GLSS-SF-0004-R1	Anaplastic Astrocytoma	61	1:DECEASED	First Recurrence
+GLSS-SF-0004-R2	Anaplastic Astrocytoma	61	1:DECEASED	Second Recurrence
+GLSS-SF-0004-R3	Anaplastic Astrocytoma	61	1:DECEASED	Third Recurrence
+GLSS-SF-0004-TP	Diffuse Astrocytoma	61	1:DECEASED	Tumor Primary
+GLSS-SF-0005-R1	Glioblastoma	74	1:DECEASED	First Recurrence
+GLSS-SF-0005-TP	Diffuse Astrocytoma	74	1:DECEASED	Tumor Primary
+GLSS-SF-0006-R1	Diffuse Astrocytoma	87	1:DECEASED	First Recurrence
+GLSS-SF-0006-TP	Diffuse Astrocytoma	87	1:DECEASED	Tumor Primary
+GLSS-SF-0007-R1	Diffuse Astrocytoma	148	1:DECEASED	First Recurrence
+GLSS-SF-0007-TP	Diffuse Astrocytoma	148	1:DECEASED	Tumor Primary
+GLSS-SF-0008-R1	Glioblastoma	103	1:DECEASED	First Recurrence
+GLSS-SF-0008-TP	Diffuse Astrocytoma	103	1:DECEASED	Tumor Primary
+GLSS-SF-0009-R1	Glioblastoma	45	1:DECEASED	First Recurrence
+GLSS-SF-0009-TP	Diffuse Astrocytoma	45	1:DECEASED	Tumor Primary
+GLSS-SF-0010-R1	Glioblastoma	44	1:DECEASED	First Recurrence
+GLSS-SF-0010-TP	Diffuse Astrocytoma	44	1:DECEASED	Tumor Primary
+GLSS-SF-0011-R1	Diffuse Astrocytoma	186	1:DECEASED	First Recurrence
+GLSS-SF-0011-TP	Diffuse Astrocytoma	186	1:DECEASED	Tumor Primary
+GLSS-SF-0012-R1	Anaplastic Astrocytoma	82	0:LIVING	First Recurrence
+GLSS-SF-0012-TP	Diffuse Astrocytoma	82	0:LIVING	Tumor Primary
+GLSS-SF-0013-R1	Diffuse Astrocytoma	106	1:DECEASED	First Recurrence
+GLSS-SF-0013-TP	Diffuse Astrocytoma	106	1:DECEASED	Tumor Primary
+GLSS-SF-0014-R1	Astrocytoma	149	0:LIVING	First Recurrence
+GLSS-SF-0014-TP	Astrocytoma	149	0:LIVING	Tumor Primary
+GLSS-SF-0015-R1	Oligodendroglioma	143	0:LIVING	First Recurrence
+GLSS-SF-0015-TP	Oligodendroglioma	143	0:LIVING	Tumor Primary
+GLSS-SF-0016-R1	Diffuse Astrocytoma	38	1:DECEASED	First Recurrence
+GLSS-SF-0016-TP	Diffuse Astrocytoma	38	1:DECEASED	Tumor Primary
+GLSS-SF-0017-R1	Glioblastoma	59	0:LIVING	First Recurrence
+GLSS-SF-0017-R2	Glioblastoma	59	0:LIVING	Second Recurrence
+GLSS-SF-0017-R3	Glioblastoma	59	0:LIVING	Third Recurrence
+GLSS-SF-0017-R4	Glioblastoma	59	0:LIVING	Fourth recurrence
+GLSS-SF-0017-TP	Diffuse Astrocytoma	59	0:LIVING	Tumor Primary
+GLSS-SF-0018-R1	Glioblastoma	106	0:LIVING	First Recurrence
+GLSS-SF-0018-TP	Diffuse Astrocytoma	106	0:LIVING	Tumor Primary
+GLSS-SF-0020-R1	Oligodendroglioma	148	0:LIVING	First Recurrence
+GLSS-SF-0020-TP	Oligodendroglioma	148	0:LIVING	Tumor Primary
+GLSS-SF-0021-R1	Glioblastoma	35	1:DECEASED	First Recurrence
+GLSS-SF-0021-TP	Diffuse Astrocytoma	35	1:DECEASED	Tumor Primary
+GLSS-SF-0022-R1	Glioblastoma	70	1:DECEASED	First Recurrence
+GLSS-SF-0022-TP	Astrocytoma	70	1:DECEASED	Tumor Primary
+GLSS-SF-0024-R1	Diffuse Astrocytoma	109	1:DECEASED	First Recurrence
+GLSS-SF-0024-R2	Glioblastoma	109	1:DECEASED	Second Recurrence
+GLSS-SF-0024-TP	Diffuse Astrocytoma	109	1:DECEASED	Tumor Primary
+GLSS-SF-0025-R1	Glioblastoma	42	0:LIVING	First Recurrence
+GLSS-SF-0025-TP	Diffuse Astrocytoma	42	0:LIVING	Tumor Primary
+GLSS-SF-0026-R1	Diffuse Astrocytoma	47	0:LIVING	First Recurrence
+GLSS-SF-0026-TP	Diffuse Astrocytoma	47	0:LIVING	Tumor Primary
+GLSS-SF-0027-R1	Diffuse Astrocytoma	54	0:LIVING	First Recurrence
+GLSS-SF-0027-TP	Diffuse Astrocytoma	54	0:LIVING	Tumor Primary
+GLSS-SF-0028-R1	Anaplastic Astrocytoma	137	0:LIVING	First Recurrence
+GLSS-SF-0028-TP	Diffuse Astrocytoma	137	0:LIVING	Tumor Primary
+GLSS-SF-0029-R1	Anaplastic Astrocytoma	109	1:DECEASED	First Recurrence
+GLSS-SF-0029-TP	Diffuse Astrocytoma	109	1:DECEASED	Tumor Primary
+GLSS-SF-0032-R1	Glioblastoma	15	0:LIVING	First Recurrence
+GLSS-SF-0032-TP	Anaplastic Astrocytoma	15	0:LIVING	Tumor Primary
+GLSS-SF-0037-R1	Anaplastic Oligoastrocytoma	105	0:LIVING	First Recurrence
+GLSS-SF-0037-TP	Anaplastic Oligoastrocytoma	105	0:LIVING	Tumor Primary
+GLSS-SF-0038-R1	Astrocytoma	25	0:LIVING	First Recurrence
+GLSS-SF-0038-TP	Astrocytoma	25	0:LIVING	Tumor Primary
+GLSS-SF-0039-R1	Oligodendroglioma	101	0:LIVING	First Recurrence
+GLSS-SF-0039-TP	Oligodendroglioma	101	0:LIVING	Tumor Primary
+GLSS-SF-0058-R1	Glioblastoma	59	1:DECEASED	First Recurrence
+GLSS-SF-0058-TP	Glioblastoma	59	1:DECEASED	Tumor Primary
+GLSS-SF-0060-R1	Anaplastic Oligodendroglioma	61	0:LIVING	First Recurrence
+GLSS-SF-0060-TP	Oligodendroglioma	61	0:LIVING	Tumor Primary
+GLSS-SF-0065-R1	Anaplastic Astrocytoma	117	0:LIVING	First Recurrence
+GLSS-SF-0065-TP	Diffuse Astrocytoma	117	0:LIVING	Tumor Primary
+GLSS-SF-0069-R1	Anaplastic Oligodendroglioma	154	0:LIVING	First Recurrence
+GLSS-SF-0069-TP	Oligodendroglioma	154	0:LIVING	Tumor Primary
+GLSS-SF-0131-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-SF-0131-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-SF-0157-R1	Glioblastoma	51	1:DECEASED	First Recurrence
+GLSS-SF-0157-TP	Diffuse Astrocytoma	51	1:DECEASED	Tumor Primary
+GLSS-SF-0159-R1	Diffuse Astrocytoma	83	0:LIVING	First Recurrence
+GLSS-SF-0159-TP	Diffuse Astrocytoma	83	0:LIVING	Tumor Primary
+GLSS-SF-0161-R1	Glioblastoma	114	0:LIVING	First Recurrence
+GLSS-SF-0161-TP	Diffuse Astrocytoma	114	0:LIVING	Tumor Primary
+GLSS-SF-0163-R1	Diffuse Astrocytoma	140	0:LIVING	First Recurrence
+GLSS-SF-0163-TP	Diffuse Astrocytoma	140	0:LIVING	Tumor Primary
+GLSS-SF-0170-R1	Anaplastic Oligodendroglioma	55	1:DECEASED	First Recurrence
+GLSS-SF-0170-TP	Oligodendroglioma	55	1:DECEASED	Tumor Primary
+GLSS-SF-0334-R1	Oligodendroglioma	188	0:LIVING	First Recurrence
+GLSS-SF-0334-TP	Oligodendroglioma	188	0:LIVING	Tumor Primary
+GLSS-SF-0338-R1	Anaplastic Astrocytoma	34	0:LIVING	First Recurrence
+GLSS-SF-0338-TP	Diffuse Astrocytoma	34	0:LIVING	Tumor Primary
+GLSS-SF-0339-R1	Diffuse Astrocytoma	68	0:LIVING	First Recurrence
+GLSS-SF-0339-TP	Diffuse Astrocytoma	68	0:LIVING	Tumor Primary
+GLSS-SM-R056-R2	Glioblastoma	61	1:DECEASED	Second Recurrence
+GLSS-SM-R056-R3	Glioblastoma	61	1:DECEASED	Third Recurrence
+GLSS-SM-R056-TP	Glioblastoma	61	1:DECEASED	Tumor Primary
+GLSS-SM-R057-R2	Glioblastoma	58	1:DECEASED	Second Recurrence
+GLSS-SM-R057-TP	Glioblastoma	58	1:DECEASED	Tumor Primary
+GLSS-SM-R058-R1	Glioblastoma	53	1:DECEASED	First Recurrence
+GLSS-SM-R058-TP	Glioblastoma	53	1:DECEASED	Tumor Primary
+GLSS-SM-R060-R1	Glioblastoma	39	1:DECEASED	First Recurrence
+GLSS-SM-R060-R3	Glioblastoma	39	1:DECEASED	Third Recurrence
+GLSS-SM-R060-TP	Glioblastoma	39	1:DECEASED	Tumor Primary
+GLSS-SM-R061-R1	Glioblastoma	35	1:DECEASED	First Recurrence
+GLSS-SM-R061-TP	Glioblastoma	35	1:DECEASED	Tumor Primary
+GLSS-SM-R062-R1	Glioblastoma	34	1:DECEASED	First Recurrence
+GLSS-SM-R062-TP	Glioblastoma	34	1:DECEASED	Tumor Primary
+GLSS-SM-R063-R1	Glioblastoma	33	1:DECEASED	First Recurrence
+GLSS-SM-R063-TP	Glioblastoma	33	1:DECEASED	Tumor Primary
+GLSS-SM-R064-R1	Glioblastoma	42	1:DECEASED	First Recurrence
+GLSS-SM-R064-R2	Glioblastoma	42	1:DECEASED	Second Recurrence
+GLSS-SM-R064-TP	Glioblastoma	42	1:DECEASED	Tumor Primary
+GLSS-SM-R065-R1	Glioblastoma	26	1:DECEASED	First Recurrence
+GLSS-SM-R065-TP	Glioblastoma	26	1:DECEASED	Tumor Primary
+GLSS-SM-R066-R1	Glioblastoma	23	1:DECEASED	First Recurrence
+GLSS-SM-R066-TP	Glioblastoma	23	1:DECEASED	Tumor Primary
+GLSS-SM-R067-R1	Glioblastoma	22	1:DECEASED	First Recurrence
+GLSS-SM-R067-TP	Glioblastoma	22	1:DECEASED	Tumor Primary
+GLSS-SM-R068-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-SM-R068-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-SM-R069-R2	Glioblastoma	18	1:DECEASED	Second Recurrence
+GLSS-SM-R069-TP	Glioblastoma	18	1:DECEASED	Tumor Primary
+GLSS-SM-R070-R1	Glioblastoma	15	1:DECEASED	First Recurrence
+GLSS-SM-R070-TP	Glioblastoma	15	1:DECEASED	Tumor Primary
+GLSS-SM-R071-R1	Glioblastoma	16	1:DECEASED	First Recurrence
+GLSS-SM-R071-TP	Glioblastoma	16	1:DECEASED	Tumor Primary
+GLSS-SM-R072-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-SM-R072-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-SM-R075-R1	Glioblastoma	7	1:DECEASED	First Recurrence
+GLSS-SM-R075-TP	Glioblastoma	7	1:DECEASED	Tumor Primary
+GLSS-SM-R076-R1	Glioblastoma	58	1:DECEASED	First Recurrence
+GLSS-SM-R076-R3	Glioblastoma	58	1:DECEASED	Third Recurrence
+GLSS-SM-R078-R1	Glioblastoma	81	1:DECEASED	First Recurrence
+GLSS-SM-R078-R2	Glioblastoma	81	1:DECEASED	Second Recurrence
+GLSS-SM-R080-R1	Glioblastoma	33	1:DECEASED	First Recurrence
+GLSS-SM-R080-TP	Glioblastoma	33	1:DECEASED	Tumor Primary
+GLSS-SM-R081-R1	Glioblastoma	17	1:DECEASED	First Recurrence
+GLSS-SM-R081-TP	Glioblastoma	17	1:DECEASED	Tumor Primary
+GLSS-SM-R082-R1	Glioblastoma	11	0:LIVING	First Recurrence
+GLSS-SM-R082-TP	Glioblastoma	11	0:LIVING	Tumor Primary
+GLSS-SM-R083-R1	Glioblastoma	34	1:DECEASED	First Recurrence
+GLSS-SM-R083-TP	Glioblastoma	34	1:DECEASED	Tumor Primary
+GLSS-SM-R085-R1	Glioblastoma	32	1:DECEASED	First Recurrence
+GLSS-SM-R085-TP	Glioblastoma	32	1:DECEASED	Tumor Primary
+GLSS-SM-R087-R1	Glioblastoma	27	0:LIVING	First Recurrence
+GLSS-SM-R087-TP	Glioblastoma	27	0:LIVING	Tumor Primary
+GLSS-SM-R088-R1	Glioblastoma	25	1:DECEASED	First Recurrence
+GLSS-SM-R088-TP	Glioblastoma	25	1:DECEASED	Tumor Primary
+GLSS-SM-R091-R1	Glioblastoma	12	1:DECEASED	First Recurrence
+GLSS-SM-R091-TP	Glioblastoma	12	1:DECEASED	Tumor Primary
+GLSS-SM-R093-R1	Glioblastoma	8	0:LIVING	First Recurrence
+GLSS-SM-R093-TP	Glioblastoma	8	0:LIVING	Tumor Primary
+GLSS-SM-R095-R1	Glioblastoma	20	1:DECEASED	First Recurrence
+GLSS-SM-R095-TP	Glioblastoma	20	1:DECEASED	Tumor Primary
+GLSS-SM-R096-R1	Glioblastoma	30	1:DECEASED	First Recurrence
+GLSS-SM-R096-TP	Glioblastoma	30	1:DECEASED	Tumor Primary
+GLSS-SM-R097-R1	Glioblastoma	24	1:DECEASED	First Recurrence
+GLSS-SM-R097-TP	Glioblastoma	24	1:DECEASED	Tumor Primary
+GLSS-SM-R099-R1	Glioblastoma	22	1:DECEASED	First Recurrence
+GLSS-SM-R099-TP	Glioblastoma	22	1:DECEASED	Tumor Primary
+GLSS-SM-R100-R1	Glioblastoma	18	1:DECEASED	First Recurrence
+GLSS-SM-R100-TP	Glioblastoma	18	1:DECEASED	Tumor Primary
+GLSS-SM-R101-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-SM-R101-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-SM-R102-R1	Glioblastoma	16	1:DECEASED	First Recurrence
+GLSS-SM-R102-TP	Glioblastoma	16	1:DECEASED	Tumor Primary
+GLSS-SM-R103-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-SM-R103-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-SM-R104-R1	Glioblastoma	34	0:LIVING	First Recurrence
+GLSS-SM-R104-TP	Glioblastoma	34	0:LIVING	Tumor Primary
+GLSS-SM-R106-R1	Glioblastoma	13	1:DECEASED	First Recurrence
+GLSS-SM-R106-TP	Glioblastoma	13	1:DECEASED	Tumor Primary
+GLSS-SM-R107-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-SM-R107-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-SM-R108-R1	Glioblastoma	11	1:DECEASED	First Recurrence
+GLSS-SM-R108-TP	Glioblastoma	11	1:DECEASED	Tumor Primary
+GLSS-SM-R109-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-SM-R109-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-SM-R110-R1	Glioblastoma	11	1:DECEASED	First Recurrence
+GLSS-SM-R110-TP	Glioblastoma	11	1:DECEASED	Tumor Primary
+GLSS-SM-R111-R1	Glioblastoma	14	1:DECEASED	First Recurrence
+GLSS-SM-R111-TP	Glioblastoma	14	1:DECEASED	Tumor Primary
+GLSS-SM-R112-R1	Glioblastoma	10	1:DECEASED	First Recurrence
+GLSS-SM-R112-TP	Glioblastoma	10	1:DECEASED	Tumor Primary
+GLSS-SN-0001-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-SN-0001-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-SN-0002-R1	Glioblastoma	15	1:DECEASED	First Recurrence
+GLSS-SN-0002-TP	Glioblastoma	15	1:DECEASED	Tumor Primary
+GLSS-SN-0003-R1	Glioblastoma	20	1:DECEASED	First Recurrence
+GLSS-SN-0003-TP	Glioblastoma	20	1:DECEASED	Tumor Primary
+GLSS-SN-0004-R1	Glioblastoma	58	1:DECEASED	First Recurrence
+GLSS-SN-0004-TP	Glioblastoma	58	1:DECEASED	Tumor Primary
+GLSS-SN-0006-R1	Glioblastoma	47	1:DECEASED	First Recurrence
+GLSS-SN-0006-TP	Glioblastoma	47	1:DECEASED	Tumor Primary
+GLSS-SN-0007-R1	Glioblastoma	18	1:DECEASED	First Recurrence
+GLSS-SN-0007-R2	Glioblastoma	18	1:DECEASED	Second Recurrence
+GLSS-SN-0008-R1	Glioblastoma	50	0:LIVING	First Recurrence
+GLSS-SN-0008-TP	Anaplastic Astrocytoma	50	0:LIVING	Tumor Primary
+GLSS-SN-0009-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-SN-0009-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-SN-0010-R1	Glioblastoma	19	1:DECEASED	First Recurrence
+GLSS-SN-0010-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-SN-0013-R2	Glioblastoma	21	1:DECEASED	Second Recurrence
+GLSS-SN-0013-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-SN-0015-R2	Glioblastoma	19	1:DECEASED	Second Recurrence
+GLSS-SN-0015-TP	Glioblastoma	19	1:DECEASED	Tumor Primary
+GLSS-SN-0016-R1	Glioblastoma	21	1:DECEASED	First Recurrence
+GLSS-SN-0016-TP	Glioblastoma	21	1:DECEASED	Tumor Primary
+GLSS-SN-0017-R1	Glioblastoma	56	0:LIVING	First Recurrence
+GLSS-SN-0017-TP	Anaplastic Astrocytoma	56	0:LIVING	Tumor Primary
+GLSS-SU-0001-R1	Anaplastic Oligodendroglioma	61	1:DECEASED	First Recurrence
+GLSS-SU-0001-TP	Oligodendroglioma	61	1:DECEASED	Tumor Primary
+GLSS-SU-0002-R1	Anaplastic Astrocytoma	94	0:LIVING	First Recurrence
+GLSS-SU-0002-R2	Anaplastic Astrocytoma	94	0:LIVING	Second Recurrence
+GLSS-SU-0002-R3	Glioblastoma	94	0:LIVING	Third Recurrence
+GLSS-SU-0002-TP	Diffuse Astrocytoma	94	0:LIVING	Tumor Primary
+GLSS-SU-0003-R1	Oligodendroglioma	98	0:LIVING	First Recurrence
+GLSS-SU-0003-TP	Oligodendroglioma	98	0:LIVING	Tumor Primary
+GLSS-SU-0004-R1	Oligodendroglioma	86	0:LIVING	First Recurrence
+GLSS-SU-0004-TP	Oligodendroglioma	86	0:LIVING	Tumor Primary
+GLSS-SU-0005-R1	Diffuse Astrocytoma	52	1:DECEASED	First Recurrence
+GLSS-SU-0005-R2	Glioblastoma	52	1:DECEASED	Second Recurrence
+GLSS-SU-0005-TP	Diffuse Astrocytoma	52	1:DECEASED	Tumor Primary
+GLSS-SU-0007-R1	Oligodendroglioma	108	0:LIVING	First Recurrence
+GLSS-SU-0007-TP	Oligodendroglioma	108	0:LIVING	Tumor Primary
+GLSS-SU-0202-R1	Oligodendroglioma	105	0:LIVING	First Recurrence
+GLSS-SU-0202-TP	Oligodendroglioma	105	0:LIVING	Tumor Primary
+GLSS-SU-0239-R1	Anaplastic Astrocytoma	57	0:LIVING	First Recurrence
+GLSS-SU-0239-TP	Diffuse Astrocytoma	57	0:LIVING	Tumor Primary
+GLSS-SU-0270-R1	Anaplastic Astrocytoma	46	1:DECEASED	First Recurrence
+GLSS-SU-0270-R2	Glioblastoma	46	1:DECEASED	Second Recurrence
+GLSS-SU-0270-TP	Diffuse Astrocytoma	46	1:DECEASED	Tumor Primary
+TCGA-06-0125-R1	Glioblastoma	48	1:DECEASED	First Recurrence
+TCGA-06-0125-TP	Glioblastoma	48	1:DECEASED	Tumor Primary
+TCGA-06-0152-R1	Glioblastoma	12	1:DECEASED	First Recurrence
+TCGA-06-0152-TP	Glioblastoma	12	1:DECEASED	Tumor Primary
+TCGA-06-0171-R1	Glioblastoma	13	1:DECEASED	First Recurrence
+TCGA-06-0171-TP	Glioblastoma	13	1:DECEASED	Tumor Primary
+TCGA-06-0190-R1	Glioblastoma	11	1:DECEASED	First Recurrence
+TCGA-06-0190-TP	Glioblastoma	11	1:DECEASED	Tumor Primary
+TCGA-06-0210-R1	Glioblastoma	8	1:DECEASED	First Recurrence
+TCGA-06-0210-TP	Glioblastoma	8	1:DECEASED	Tumor Primary
+TCGA-06-0211-R1	Glioblastoma	12	1:DECEASED	First Recurrence
+TCGA-06-0211-TP	Glioblastoma	12	1:DECEASED	Tumor Primary
+TCGA-06-0221-R1	Glioblastoma	20	1:DECEASED	First Recurrence
+TCGA-06-0221-TP	Glioblastoma	20	1:DECEASED	Tumor Primary
+TCGA-14-0736-R1	Glioblastoma	15	1:DECEASED	First Recurrence
+TCGA-14-0736-TP	Glioblastoma	15	1:DECEASED	Tumor Primary
+TCGA-14-1034-R1	Glioblastoma	16	1:DECEASED	First Recurrence
+TCGA-14-1034-TP	Glioblastoma	16	1:DECEASED	Tumor Primary
+TCGA-14-1402-R1	Glioblastoma	32	1:DECEASED	First Recurrence
+TCGA-14-1402-TP	Glioblastoma	32	1:DECEASED	Tumor Primary
+TCGA-19-0957-R1	Glioblastoma	22	1:DECEASED	First Recurrence
+TCGA-19-0957-TP	Glioblastoma	22	1:DECEASED	Tumor Primary
+TCGA-19-1389-R1	Glioblastoma	5	1:DECEASED	First Recurrence
+TCGA-19-1389-TP	Glioblastoma	5	1:DECEASED	Tumor Primary
+TCGA-19-4065-R1	Glioblastoma	15	1:DECEASED	First Recurrence
+TCGA-19-4065-TP	Glioblastoma	15	1:DECEASED	Tumor Primary
+TCGA-DH-A669-R1	Anaplastic Oligodendroglioma	31	1:DECEASED	First Recurrence
+TCGA-DH-A669-TP	Anaplastic Oligodendroglioma	31	1:DECEASED	Tumor Primary
+TCGA-DU-5870-R1	Anaplastic Oligodendroglioma	293	1:DECEASED	First Recurrence
+TCGA-DU-5870-TP	Oligodendroglioma	293	1:DECEASED	Tumor Primary
+TCGA-DU-5872-R1	Diffuse Astrocytoma	121	0:LIVING	First Recurrence
+TCGA-DU-5872-TP	Diffuse Astrocytoma	121	0:LIVING	Tumor Primary
+TCGA-DU-6397-R1	Anaplastic Oligodendroglioma	46	1:DECEASED	First Recurrence
+TCGA-DU-6397-TP	Anaplastic Oligodendroglioma	46	1:DECEASED	Tumor Primary
+TCGA-DU-6404-R1	Diffuse Astrocytoma	134	1:DECEASED	First Recurrence
+TCGA-DU-6404-R2	Anaplastic Astrocytoma	134	1:DECEASED	Second Recurrence
+TCGA-DU-6404-TP	Anaplastic Astrocytoma	134	1:DECEASED	Tumor Primary
+TCGA-DU-6407-R1	Diffuse Astrocytoma	94	1:DECEASED	First Recurrence
+TCGA-DU-6407-R2	Glioblastoma	94	1:DECEASED	Second Recurrence
+TCGA-DU-6407-TP	Diffuse Astrocytoma	94	1:DECEASED	Tumor Primary
+TCGA-DU-7304-R1	Anaplastic Astrocytoma	23	1:DECEASED	First Recurrence
+TCGA-DU-7304-TP	Anaplastic Astrocytoma	23	1:DECEASED	Tumor Primary
+TCGA-FG-5963-R1	Glioblastoma	27	1:DECEASED	First Recurrence
+TCGA-FG-5963-TP	Anaplastic Astrocytoma	27	1:DECEASED	Tumor Primary
+TCGA-FG-5965-R1	Anaplastic Astrocytoma	37	1:DECEASED	First Recurrence
+TCGA-FG-5965-R2	Glioblastoma	37	1:DECEASED	Second Recurrence
+TCGA-FG-5965-TP	Diffuse Astrocytoma	37	1:DECEASED	Tumor Primary
+TCGA-FG-A4MT-R1	Anaplastic Astrocytoma	109	1:DECEASED	First Recurrence
+TCGA-FG-A4MT-TP	Diffuse Astrocytoma	109	1:DECEASED	Tumor Primary
+TCGA-TM-A7CF-R1	Anaplastic Astrocytoma	61	0:LIVING	First Recurrence
+TCGA-TM-A7CF-TP	Diffuse Astrocytoma	61	0:LIVING	Tumor Primary
+TCGA-TQ-A7RK-R1	Diffuse Astrocytoma	40	0:LIVING	First Recurrence
+TCGA-TQ-A7RK-R2	Diffuse Astrocytoma	40	0:LIVING	Second Recurrence
+TCGA-TQ-A7RK-TP	Diffuse Astrocytoma	40	0:LIVING	Tumor Primary
+TCGA-TQ-A7RV-R1	Diffuse Astrocytoma	59	0:LIVING	First Recurrence
+TCGA-TQ-A7RV-TP	Diffuse Astrocytoma	59	0:LIVING	Tumor Primary
+TCGA-TQ-A8XE-R1	Anaplastic Astrocytoma	31	1:DECEASED	First Recurrence
+TCGA-TQ-A8XE-TP	Diffuse Astrocytoma	31	1:DECEASED	Tumor Primary
